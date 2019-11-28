@@ -1,0 +1,92 @@
+2019-11-28 10:29:32 INFO  RestAPIDemo:16 - &&&&&&&&& Started the first Test Case &&&&&&&&&&&&&
+2019-11-28 10:29:34 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 10:29:35 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 10:29:35 INFO  RestAPIDemo:39 - End of the test case 
+2019-11-28 10:29:35 INFO  RestAPIDemo:16 - &&&&&&&&& Started the Second Test Case &&&&&&&&&&&&&
+2019-11-28 10:29:36 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 10:29:36 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 10:29:36 INFO  RestAPIDemo:39 - End of the second test case 
+2019-11-28 11:00:40 INFO  RestAPIDemo:16 - &&&&&&&&& Started the first Test Case &&&&&&&&&&&&&
+2019-11-28 11:00:43 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 11:00:43 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 11:00:43 INFO  RestAPIDemo:39 - End of the test case of getting all employee details 
+2019-11-28 11:00:43 INFO  RestAPIDemo:16 - &&&&&&&&& Started the Second Test Case &&&&&&&&&&&&&
+2019-11-28 11:00:44 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 11:00:44 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 11:00:44 INFO  RestAPIDemo:39 - End of the second test case 
+2019-11-28 11:00:44 INFO  RestAPIDemo:17 - &&&&&&&&& Started the first Test Case &&&&&&&&&&&&&
+2019-11-28 11:00:49 INFO  RestAPIDemo:31 - getting the response code
+2019-11-28 11:00:50 INFO  RestAPIDemo:38 - getting the Status line
+2019-11-28 11:00:50 INFO  RestAPIDemo:44 - End of the test case of deleteing the Employee
+2019-11-28 22:17:23 INFO  RestAPIDemo:16 - &&&&&&&&& Started the first Test Case &&&&&&&&&&&&&
+2019-11-28 22:17:27 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 22:17:27 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 22:17:27 INFO  RestAPIDemo:39 - End of the test case of getting all employee details 
+2019-11-28 22:17:27 INFO  RestAPIDemo:16 - &&&&&&&&& Started the Second Test Case &&&&&&&&&&&&&
+2019-11-28 22:17:28 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 22:17:28 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 22:17:28 INFO  RestAPIDemo:39 - End of the second test case 
+2019-11-28 22:17:28 INFO  RestAPIDemo:17 - &&&&&&&&& Started the Third Test Case &&&&&&&&&&&&&
+2019-11-28 22:17:34 INFO  RestAPIDemo:31 - getting the response code
+2019-11-28 22:17:34 INFO  RestAPIDemo:38 - getting the Status line
+2019-11-28 22:17:34 INFO  RestAPIDemo:44 - End of the test case of deleteing the Employee
+2019-11-28 22:36:48 INFO  RestAPIDemo:16 - &&&&&&&&& Started the first Test Case &&&&&&&&&&&&&
+2019-11-28 22:36:51 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 22:36:51 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 22:36:51 INFO  RestAPIDemo:39 - End of the test case of getting all employee details 
+2019-11-28 22:36:51 INFO  RestAPIDemo:16 - &&&&&&&&& Started the Second Test Case &&&&&&&&&&&&&
+2019-11-28 22:36:52 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 22:36:52 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 22:36:52 INFO  RestAPIDemo:39 - End of the second test case 
+2019-11-28 22:36:52 INFO  RestAPIDemo:17 - &&&&&&&&& Started the Third Test Case &&&&&&&&&&&&&
+2019-11-28 22:36:58 INFO  RestAPIDemo:31 - getting the response code
+2019-11-28 22:36:58 INFO  RestAPIDemo:38 - getting the Status line
+2019-11-28 22:36:58 INFO  RestAPIDemo:44 - End of the test case of deleteing the Employee
+2019-11-28 22:42:55 INFO  RestAPIDemo:16 - &&&&&&&&& Started the first Test Case &&&&&&&&&&&&&
+2019-11-28 22:42:58 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 22:42:58 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 22:42:58 INFO  RestAPIDemo:39 - End of the test case of getting all employee details 
+2019-11-28 22:42:58 INFO  RestAPIDemo:16 - &&&&&&&&& Started the Second Test Case &&&&&&&&&&&&&
+2019-11-28 22:42:59 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 22:42:59 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 22:42:59 INFO  RestAPIDemo:39 - End of the second test case 
+2019-11-28 22:42:59 INFO  RestAPIDemo:17 - &&&&&&&&& Started the Third Test Case &&&&&&&&&&&&&
+2019-11-28 22:43:05 INFO  RestAPIDemo:31 - getting the response code
+2019-11-28 22:43:05 INFO  RestAPIDemo:38 - getting the Status line
+2019-11-28 22:43:05 INFO  RestAPIDemo:44 - End of the test case of deleteing the Employee
+2019-11-28 22:43:30 INFO  RestAPIDemo:16 - &&&&&&&&& Started the first Test Case &&&&&&&&&&&&&
+2019-11-28 22:43:33 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 22:43:33 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 22:43:33 INFO  RestAPIDemo:39 - End of the test case of getting all employee details 
+2019-11-28 22:43:33 INFO  RestAPIDemo:16 - &&&&&&&&& Started the Second Test Case &&&&&&&&&&&&&
+2019-11-28 22:43:34 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 22:43:34 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 22:43:34 INFO  RestAPIDemo:39 - End of the second test case 
+2019-11-28 22:43:34 INFO  RestAPIDemo:17 - &&&&&&&&& Started the Third Test Case &&&&&&&&&&&&&
+2019-11-28 22:43:40 INFO  RestAPIDemo:31 - getting the response code
+2019-11-28 22:43:40 INFO  RestAPIDemo:38 - getting the Status line
+2019-11-28 22:43:40 INFO  RestAPIDemo:44 - End of the test case of deleteing the Employee
+2019-11-28 23:07:23 INFO  RestAPIDemo:16 - &&&&&&&&& Started the first Test Case &&&&&&&&&&&&&
+2019-11-28 23:07:28 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 23:07:28 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 23:07:28 INFO  RestAPIDemo:39 - End of the test case of getting all employee details 
+2019-11-28 23:07:28 INFO  RestAPIDemo:16 - &&&&&&&&& Started the Second Test Case &&&&&&&&&&&&&
+2019-11-28 23:07:28 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 23:07:29 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 23:07:29 INFO  RestAPIDemo:39 - End of the second test case 
+2019-11-28 23:07:29 INFO  RestAPIDemo:17 - &&&&&&&&& Started the Third Test Case &&&&&&&&&&&&&
+2019-11-28 23:07:35 INFO  RestAPIDemo:31 - getting the response code
+2019-11-28 23:07:35 INFO  RestAPIDemo:38 - getting the Status line
+2019-11-28 23:07:35 INFO  RestAPIDemo:44 - End of the test case of deleteing the Employee
+2019-11-28 23:21:07 INFO  RestAPIDemo:16 - &&&&&&&&& Started the first Test Case &&&&&&&&&&&&&
+2019-11-28 23:21:11 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 23:21:11 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 23:21:11 INFO  RestAPIDemo:39 - End of the test case of getting all employee details 
+2019-11-28 23:21:11 INFO  RestAPIDemo:16 - &&&&&&&&& Started the Second Test Case &&&&&&&&&&&&&
+2019-11-28 23:21:12 INFO  RestAPIDemo:26 - getting the response code
+2019-11-28 23:21:12 INFO  RestAPIDemo:33 - getting the Status line
+2019-11-28 23:21:12 INFO  RestAPIDemo:39 - End of the second test case 
+2019-11-28 23:21:12 INFO  RestAPIDemo:17 - &&&&&&&&& Started the Third Test Case &&&&&&&&&&&&&
+2019-11-28 23:21:18 INFO  RestAPIDemo:31 - getting the response code
+2019-11-28 23:21:18 INFO  RestAPIDemo:38 - getting the Status line
+2019-11-28 23:21:18 INFO  RestAPIDemo:44 - End of the test case of deleteing the Employee

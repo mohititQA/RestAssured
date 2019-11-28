@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RestFramework" duration-ms="10049" started-at="2019-11-28T05:30:39Z" finished-at="2019-11-28T05:30:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10049" started-at="2019-11-28T05:30:39Z" finished-at="2019-11-28T05:30:50Z">
+      <class name="TestCases.tc2GetSingleEmployeeDetails">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:TestCases.tc2GetSingleEmployeeDetails@5c3bd550]" name="Setup" is-config="true" duration-ms="3" started-at="2019-11-28T05:30:43Z" finished-at="2019-11-28T05:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="setupGetRequest()[pri:0, instance:TestCases.tc2GetSingleEmployeeDetails@5c3bd550]" name="setupGetRequest" is-config="true" duration-ms="923" started-at="2019-11-28T05:30:43Z" finished-at="2019-11-28T05:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupGetRequest -->
+        <test-method status="PASS" signature="getResponseCode()[pri:0, instance:TestCases.tc2GetSingleEmployeeDetails@5c3bd550]" name="getResponseCode" duration-ms="1" started-at="2019-11-28T05:30:44Z" finished-at="2019-11-28T05:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseCode -->
+        <test-method status="PASS" signature="getStatusLine()[pri:0, instance:TestCases.tc2GetSingleEmployeeDetails@5c3bd550]" name="getStatusLine" duration-ms="2" started-at="2019-11-28T05:30:44Z" finished-at="2019-11-28T05:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatusLine -->
+        <test-method status="PASS" signature="teardownMethods()[pri:0, instance:TestCases.tc2GetSingleEmployeeDetails@5c3bd550]" name="teardownMethods" is-config="true" duration-ms="0" started-at="2019-11-28T05:30:44Z" finished-at="2019-11-28T05:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownMethods -->
+      </class> <!-- TestCases.tc2GetSingleEmployeeDetails -->
+      <class name="TestCases.tc3GetEmployeeDelete">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:TestCases.tc3GetEmployeeDelete@91161c7]" name="Setup" is-config="true" duration-ms="3" started-at="2019-11-28T05:30:44Z" finished-at="2019-11-28T05:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="DeleteEmployee()[pri:0, instance:TestCases.tc3GetEmployeeDelete@91161c7]" name="DeleteEmployee" is-config="true" duration-ms="5680" started-at="2019-11-28T05:30:44Z" finished-at="2019-11-28T05:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteEmployee -->
+        <test-method status="PASS" signature="getResponseCode()[pri:0, instance:TestCases.tc3GetEmployeeDelete@91161c7]" name="getResponseCode" duration-ms="6" started-at="2019-11-28T05:30:49Z" finished-at="2019-11-28T05:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseCode -->
+        <test-method status="PASS" signature="getStatusLine()[pri:0, instance:TestCases.tc3GetEmployeeDelete@91161c7]" name="getStatusLine" duration-ms="4" started-at="2019-11-28T05:30:50Z" finished-at="2019-11-28T05:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatusLine -->
+        <test-method status="PASS" signature="teardownMethods()[pri:0, instance:TestCases.tc3GetEmployeeDelete@91161c7]" name="teardownMethods" is-config="true" duration-ms="1" started-at="2019-11-28T05:30:50Z" finished-at="2019-11-28T05:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownMethods -->
+      </class> <!-- TestCases.tc3GetEmployeeDelete -->
+      <class name="TestCases.tc1GetAllEmployeeData">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:TestCases.tc1GetAllEmployeeData@5e3a8624]" name="Setup" is-config="true" duration-ms="60" started-at="2019-11-28T05:30:40Z" finished-at="2019-11-28T05:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="setupGetRequest()[pri:0, instance:TestCases.tc1GetAllEmployeeData@5e3a8624]" name="setupGetRequest" is-config="true" duration-ms="2928" started-at="2019-11-28T05:30:40Z" finished-at="2019-11-28T05:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupGetRequest -->
+        <test-method status="PASS" signature="getResponseCode()[pri:0, instance:TestCases.tc1GetAllEmployeeData@5e3a8624]" name="getResponseCode" duration-ms="8" started-at="2019-11-28T05:30:43Z" finished-at="2019-11-28T05:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseCode -->
+        <test-method status="PASS" signature="getStatusLine()[pri:0, instance:TestCases.tc1GetAllEmployeeData@5e3a8624]" name="getStatusLine" duration-ms="5" started-at="2019-11-28T05:30:43Z" finished-at="2019-11-28T05:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatusLine -->
+        <test-method status="PASS" signature="teardownMethods()[pri:0, instance:TestCases.tc1GetAllEmployeeData@5e3a8624]" name="teardownMethods" is-config="true" duration-ms="1" started-at="2019-11-28T05:30:43Z" finished-at="2019-11-28T05:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownMethods -->
+      </class> <!-- TestCases.tc1GetAllEmployeeData -->
+    </test> <!-- Test -->
+  </suite> <!-- RestFramework -->
+</testng-results>

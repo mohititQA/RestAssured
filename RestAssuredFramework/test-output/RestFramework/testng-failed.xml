@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RestFramework]">
+  <listeners>
+    <listener class-name="Utilites.Listners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="TestCases.tc1GetAllEmployeeData">
+        <methods>
+          <include name="getResponseCode"/>
+          <include name="teardownMethods"/>
+          <include name="getStatusLine"/>
+          <include name="Setup"/>
+          <include name="setupGetRequest"/>
+        </methods>
+      </class> <!-- TestCases.tc1GetAllEmployeeData -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [RestFramework] -->
